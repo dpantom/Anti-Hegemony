@@ -60,9 +60,10 @@ License Information
 The source code for this project is licensed under the MIT License (or other open-source license if applicable), unless otherwise noted. For full details, please refer to the LICENSE file in the project directory.
 
 Credits
-Design and Development: 
+Design and Development:
 Content Contributors: 
 Images: 
+
 Closing Note:
 We appreciate your support and involvement in promoting a more just and balanced world. Thank you for visiting our website and joining the movement against imperialism.
 
